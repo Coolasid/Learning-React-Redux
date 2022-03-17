@@ -8,7 +8,7 @@ function App() {
   return (
     <Provider store={store}>
       <div className="App">
-        {/* <CakeContainer></CakeContainer> */}
+        <CakeContainer></CakeContainer>
         <UserContainer></UserContainer>
       </div>
     </Provider>
